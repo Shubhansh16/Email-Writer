@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class EmailWriterSbApplication {
 
-	//key AIzaSyAdXmin9vM0OZXTmDpiFMjiLXU6QY7tVwM
+	//key
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmailWriterSbApplication.class, args);
